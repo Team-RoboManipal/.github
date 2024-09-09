@@ -51,6 +51,6 @@ The taskphase aims to give you all round exposure to a bunch of technologies and
 
 ## 👓 Appendix
 
-See what's next on our [task board]([https://trello.com/invite/b/0kaVuw31/ATTI2c6b319c09955a987938ae0944ac9344FE749BD6/rm-taskphase-coding](https://trello.com/b/RwyPn3iy/rm-taskphase-coding-24)) ✨  Oh, and by the way, all the best to everyone in the task phase make sure to have a blast 🙌.
+See what's next on our [task board](https://trello.com/invite/b/66dee1918b4144478c6b067f/ATTI9295b601f44511868fd14227c4ae741cFB132C18/rm-taskphase-coding-24-2nd-years) ✨  Oh, and by the way, all the best to everyone in the task phase make sure to have a blast 🙌.
 
 ---
