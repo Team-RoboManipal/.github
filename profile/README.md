@@ -1,4 +1,4 @@
-# Robomanipal Coding Taskphase 2023 🤖 
+# Robomanipal Coding Taskphase 2024 🤖 
 
 ![Welcome](https://i.imgur.com/qYNZG2o.jpg)
 
@@ -33,15 +33,17 @@ The taskphase aims to give you all round exposure to a bunch of technologies and
 - [ ] **Week 8**
     - Introduction to TurtleSim
     - Introduction to Gazebo
-- [ ] **Week 9**
+ - [ ] **Week 9**
+    - ROS PathPlanning
+    - ROS Arm FKIK
+- [ ] **Week 10**
     - Microprocessors and Microcontrollers
     - Introduction to Arduino and Communication Protocols
-- [ ] **Week 10**
+- [ ] **Week 11**
     - Screening and Taskphase Evaluation
     - Working with sensors
-- [ ] **Week 11**
-    - Creating a Holonomic Drive
-    - Remote control of the bot
+- [ ] **Week 12**
+    - FINAL TASK
 
 
 
