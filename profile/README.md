@@ -51,6 +51,6 @@ The taskphase aims to give you all round exposure to a bunch of technologies and
 
 ## 👓 Appendix
 
-See what's next on our [task board 1] () [task board 2]([https://trello.com/invite/b/0kaVuw31/ATTI2c6b319c09955a987938ae0944ac9344FE749BD6/rm-taskphase-coding](https://trello.com/b/RwyPn3iy/rm-taskphase-coding-24)) ✨ and [let us know](https://github.com/Robomanipal-Taskphase-Coding-2023/.github/issues/new/choose) if you have any suggestions 🙇‍♂️. Oh, and by the way, all the best to everyone in the taskphase make sure to have a blast 🙌.
+See what's next on our [task board]([https://trello.com/invite/b/0kaVuw31/ATTI2c6b319c09955a987938ae0944ac9344FE749BD6/rm-taskphase-coding](https://trello.com/b/RwyPn3iy/rm-taskphase-coding-24)) ✨  Oh, and by the way, all the best to everyone in the task phase make sure to have a blast 🙌.
 
 ---
